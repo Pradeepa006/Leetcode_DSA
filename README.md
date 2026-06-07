@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0696-count-binary-substrings) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Array
 |  |
 | ------- |
