@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -86,4 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
