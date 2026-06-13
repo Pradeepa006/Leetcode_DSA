@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0696-count-binary-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3838-weighted-word-mapping](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3838-weighted-word-mapping) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Prefix Sum
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3838-weighted-word-mapping) |
 ## Depth-First Search
 |  |
 | ------- |
