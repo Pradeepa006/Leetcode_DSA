@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
