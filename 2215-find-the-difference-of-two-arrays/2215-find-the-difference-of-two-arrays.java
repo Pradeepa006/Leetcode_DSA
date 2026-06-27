@@ -10,11 +10,7 @@ class Solution {
             n2.add(nums2[i]);
         }
         ArrayList<Integer> arr = new ArrayList<>();
-        // for(int i = 0 ; i < nums1.length ; i++) {
-        //     if(!(n2.contains(nums1[i]))) {
-        //         arr.add(nums1[i]);
-        //     }
-        // }
+        
         for(int x : n1) {
             if(!(n2.contains(x))) {
                  arr.add(x);
@@ -22,11 +18,7 @@ class Solution {
         }
         res.add(arr);
         ArrayList<Integer> arr1 = new ArrayList<>();
-        // for(int i = 0 ; i < nums2.length ; i++) {
-        //     if(!(n1.contains(nums2[i]))) {
-        //         arr1.add(nums2[i]);
-        //     }
-        // }
+        
         for(int x : n2) {
             if(!(n1.contains(x))) {
                  arr1.add(x);
