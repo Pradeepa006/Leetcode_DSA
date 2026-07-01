@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -154,4 +156,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
