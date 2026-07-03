@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2126-destroying-asteroids](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2126-destroying-asteroids](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2126-destroying-asteroids](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
