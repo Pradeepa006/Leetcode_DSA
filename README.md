@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3838-weighted-word-mapping) |
+| [3941-password-strength](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3941-password-strength) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3941-password-strength](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3941-password-strength) |
 ## Array
 |  |
 | ------- |
