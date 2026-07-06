@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
+| [0172-factorial-trailing-zeroes](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
