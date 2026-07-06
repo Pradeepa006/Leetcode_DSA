@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0696-count-binary-substrings) |
 | [0831-masking-personal-information](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0831-masking-personal-information) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
