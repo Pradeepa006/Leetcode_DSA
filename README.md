@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0696-count-binary-substrings) |
 | [0831-masking-personal-information](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0831-masking-personal-information) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [1288-remove-covered-intervals](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -227,5 +231,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
