@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [1288-remove-covered-intervals](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
