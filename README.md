@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0142-linked-list-cycle-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
