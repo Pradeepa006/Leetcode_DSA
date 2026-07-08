@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0463-island-perimeter](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0463-island-perimeter) |
+| [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0933-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
