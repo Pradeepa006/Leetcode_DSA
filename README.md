@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0463-island-perimeter](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0463-island-perimeter) |
 | [1288-remove-covered-intervals](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0463-island-perimeter) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Dynamic Programming
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0463-island-perimeter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0463-island-perimeter](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0463-island-perimeter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
