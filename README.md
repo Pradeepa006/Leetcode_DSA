@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [0287-find-the-duplicate-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -289,5 +291,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
