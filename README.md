@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0263-ugly-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [2485-find-the-pivot-integer](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2485-find-the-pivot-integer) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2215-find-the-difference-of-two-arrays) |
