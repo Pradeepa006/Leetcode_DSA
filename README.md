@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0263-ugly-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [2485-find-the-pivot-integer](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2485-find-the-pivot-integer) |
