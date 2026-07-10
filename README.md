@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0696-count-binary-substrings) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2784-check-if-array-is-good) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -210,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
 |  |
@@ -272,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
