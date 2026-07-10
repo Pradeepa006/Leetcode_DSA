@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0075-sort-colors) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
