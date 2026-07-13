@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
