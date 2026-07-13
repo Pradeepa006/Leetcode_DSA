@@ -327,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0051-n-queens) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
