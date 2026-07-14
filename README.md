@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
