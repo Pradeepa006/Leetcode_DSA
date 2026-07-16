@@ -360,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
