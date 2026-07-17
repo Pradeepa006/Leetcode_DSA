@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [2485-find-the-pivot-integer](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3620-network-recovery-pathways) |
@@ -269,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Interactive
 |  |
@@ -357,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -365,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
