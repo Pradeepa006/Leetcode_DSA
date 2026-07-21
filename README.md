@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
