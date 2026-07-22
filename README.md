@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0463-island-perimeter](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0463-island-perimeter) |
+| [0503-next-greater-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
