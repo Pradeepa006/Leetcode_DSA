@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
