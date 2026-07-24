@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0463-island-perimeter) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
