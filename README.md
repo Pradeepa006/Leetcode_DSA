@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2485-find-the-pivot-integer) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0392-is-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -444,4 +447,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
