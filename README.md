@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
+| [1140-stone-game-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2485-find-the-pivot-integer) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0392-is-subsequence) |
+| [1140-stone-game-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -465,13 +469,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
