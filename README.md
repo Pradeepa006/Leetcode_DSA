@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0043-multiply-strings) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0445-add-two-numbers-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0463-island-perimeter](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0463-island-perimeter) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
