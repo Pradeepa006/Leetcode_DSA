@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2485-find-the-pivot-integer) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1563-stone-game-v) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
