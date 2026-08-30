@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
