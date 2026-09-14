@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3099-harshad-number](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3099-harshad-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/3312-sorted-gcd-pair-queries) |
