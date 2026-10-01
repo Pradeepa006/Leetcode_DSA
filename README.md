@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0043-multiply-strings) |
 | [0139-word-break](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0143-reorder-list) |
@@ -550,5 +552,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
