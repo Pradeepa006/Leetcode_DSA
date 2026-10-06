@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0696-count-binary-substrings) |
 | [0831-masking-personal-information](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0831-masking-personal-information) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
@@ -553,5 +556,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradeepa006/Leetcode_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
